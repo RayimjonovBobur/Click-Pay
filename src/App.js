@@ -28,7 +28,6 @@ function App() {
                 </div>
               </div>
               <div className="price">
-                {" "}
                 <h2>Сумма платежа</h2>
                 <div className="price">
                   <h3>1200 сум</h3>
