@@ -46,7 +46,7 @@ function App() {
                 <InputMask
                   mask={"+\\9\\9\\8\\ 99 999 99 99"}
                   placeholder="+998"
-                />{" "}
+                />
               </div>
               <button className="submit">Продолжить</button>
             </div>
@@ -60,7 +60,6 @@ function App() {
                     <input type="text" className="card-input" />
                   </div>
                   <div className="date-card">
-                    {" "}
                     <label htmlFor="card-number">Срок действия</label>
                     <input type="text" className="card-input" />
                   </div>
