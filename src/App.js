@@ -47,8 +47,6 @@ function App() {
                 <InputMask
                   mask={"+\\9\\9\\8\\ 99 999 99 99"}
                   placeholder="+998"
-                  // value={phone}
-                  // onChange={(e) => setPhone(e.target.value)}
                 />{" "}
               </div>
               <button className="submit">Продолжить</button>
